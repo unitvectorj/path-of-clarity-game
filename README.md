@@ -7,6 +7,6 @@ The Twine remake can be found on my [UnitVector itch.io page](https://unitvector
 
 #### Usage:
 
-- In terminal, navigate to the `clarity/` directory and enter `java clarity` to run the game.
+- In terminal, navigate to the `clarity/` directory and enter `java Clarity` to run the game.
 
 - Requires: JDK 10 or later
